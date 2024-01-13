@@ -90,7 +90,7 @@ input:valid ~ label {
 .forget label a {
     color: #fff;
     text-decoration: none;
-    margin-left: 60px;
+    margin-left: 100px;
 }
 
 .forget label a:hover{
